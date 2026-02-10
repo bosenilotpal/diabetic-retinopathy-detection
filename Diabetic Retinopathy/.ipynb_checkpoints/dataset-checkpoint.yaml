@@ -1,0 +1,10 @@
+# dataset.yaml
+path: ./OCT diabetic images  # root directory
+train: train                 # train images subfolder
+val: val                     # validation images subfolder
+names:
+  0: Mild
+  1: Moderate
+  2: Normal
+  3: Proliferate
+  4: Severe
