@@ -2,3 +2,9 @@
 OCT diabetic images/
 /oct_100_per_class
 oct_100_per_class/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
